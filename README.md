@@ -7,8 +7,8 @@ Fine-tuned model with tokanization files available in results folder. Model was 
 To see more about the training process, check out the log files in the logs directory.
 
 I also deployed model using streamlit app, so you can see how it performs by follwing this link.
-Streamlit link
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([URL_TO_YOUR_APP](https://shakespeare-text-generation.streamlit.app/))
 ## Training
 For fine-tuning the gpt2 model you can run main.py file.
 ```python main.py```
